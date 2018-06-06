@@ -1,0 +1,3 @@
+<sbml xmlns="http://www.sbml.org/sbml/level3/version1/core" level="3" version="1">
+<model name="Homo sapiens Glycolysis" id="Pathway146">
+<compartment name="Homo sapiens, Cell, Cytosol" id="Cytosol"/>
